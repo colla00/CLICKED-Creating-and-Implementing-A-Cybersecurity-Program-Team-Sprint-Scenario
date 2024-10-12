@@ -1,6 +1,8 @@
 # Cybersecurity Program Proposal: Lemonade - CyberGuardians
 
-![Lemonade Cybersecurity Logo](./image.png)
+<div align="center">
+  <img src="image.png" alt="Lemonade Cybersecurity Logo" width="200"/>
+</div>
 
 **Overview**  
 This repository contains a comprehensive cybersecurity program proposal for Lemonade, developed by the CyberGuardians team during the WiCyS Cybersecurity Sprint. The proposal focuses on risk management, AI security, and incident response.
